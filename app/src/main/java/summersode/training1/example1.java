@@ -7,6 +7,7 @@ public class example1 extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        //Connecting Java File to a layout File
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_example1);
     }
